@@ -2,6 +2,14 @@
 
 ## Regras
 
+- O produto precisa ter
+  - Identificador;
+  - nome;
+  - preço;
+  - estoque;
+  - descrição, que vai ser opcional;
+  - data de criação;
+  - data de atualização
 - Preço do produto não pode ser maior do que R$ 5.000,00
 - O nome do produto precisa conter pelo menos 3 caracteres
 
